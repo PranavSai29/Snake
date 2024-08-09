@@ -1,18 +1,12 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+body {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-body{
-  margin:0px;
-  padding:0px;
-  display:flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-canvas{
-  box-shadow: black 20px 10px 50px;
-
+canvas {
+    box-shadow: black 20px 10px 50px;
 }
