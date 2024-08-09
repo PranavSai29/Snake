@@ -1,0 +1,7 @@
+Snake Game
+
+Welcome to the classic Snake Game! 
+
+This simple game is a great way to have some fun and challenge your reflexes. It's a timeless classic that has entertained players for decades.
+
+To play the game, open the index.html file in your web browser and enjoy!
